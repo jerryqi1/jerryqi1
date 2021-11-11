@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jerryqi1
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Jerry Qi
+- 👀 I’m interested in studying and sports.
 - 🌱 I’m currently learning [data150](data-150.md)
 - 📫 How to reach me jqi@email.wm.edu
 
