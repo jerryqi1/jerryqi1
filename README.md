@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jerry Qi
 - 👀 I’m interested in studying and sports.
-- 🌱 I’m currently learning [data150](https://github.com/jerryqi1/data-150)
+- 🌱 I’m currently learning [data150](https://github.com/jerryqi1/data-150/)
 - 📫 How to reach me jqi@email.wm.edu
 
 
